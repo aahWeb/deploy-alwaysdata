@@ -41,3 +41,6 @@ scp -r ./projet_x/* mcstn@ssh-mcstn.alwaysdata.net:www/
 
 > [!TIP]
 > Pour préciser le port du serveur c'est le flag `-P` qu'il faut indiquer et non `-p`, ce second flag indique qu'on garde les métadonnées des fichiers tel que la date de création, la dernière date de modification, etc...
+
+> [!TIP]
+> Si vous avez créé un alias SSH, vous pouvez remplacer l'address SSH `nom_utilisateur@hote:www/` par `alias:www/`.
