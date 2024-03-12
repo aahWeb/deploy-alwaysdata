@@ -1,6 +1,6 @@
 # Se connecter sur alwaysdata via SSH
 
-SSH est un moyen sécurisé de se connecter à distance sur un serveur distant. Ses acronymes signifient **Secure Shell**
+SSH est un moyen sécurisé de se connecter à distance sur un serveur distant. SSH est l'abréviation de **Secure Shell**.
 
 ## Prérequis
 
